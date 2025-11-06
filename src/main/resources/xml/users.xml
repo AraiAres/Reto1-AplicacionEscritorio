@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Users>
+    <User>
+        <name>Khaled</name>
+        <lastname>Yawar</lastname>
+        <email>khaledyawar081@gymsync.com</email>
+        <password>Khaled@1234</password>
+        <birthDate>Tue Mar 05 00:00:00 CET 1996</birthDate>
+        <Level>2</Level>
+        <Workouts>
+            <Workout>
+                <name>Cardio Blast</name>
+                <NExcercises>2</NExcercises>
+                <Level>1</Level>
+                <urlVideo/>
+                <Excercises>
+                    <Excercise>
+                        <name>Core</name>
+                        <description>A workout focused on strengthening the core muscles to improve stability, posture, and overall body control.</description>
+                        <breakTime>15</breakTime>
+                        <completed>true</completed>
+                        <SeriesList>
+                            <Series>
+                                <name>Plank</name>
+                                <estimatedDuration>60</estimatedDuration>
+                                <repetitionCount>60</repetitionCount>
+                                <completionDate>Tue Nov 04 00:00:00 CET 2025</completionDate>
+                                <completed>true</completed>
+                            </Series>
+                            <Series>
+                                <name>Sit-Ups</name>
+                                <estimatedDuration>60</estimatedDuration>
+                                <repetitionCount>20</repetitionCount>
+                                <completionDate>Tue Nov 04 00:00:00 CET 2025</completionDate>
+                                <completed>true</completed>
+                            </Series>
+                        </SeriesList>
+                    </Excercise>
+                    <Excercise>
+                        <name>Cardio Warm-Up</name>
+                        <description>A light cardiovascular routine designed to increase heart rate, warm up muscles, and prepare the body for intense exercise.</description>
+                        <breakTime>10</breakTime>
+                        <completed>true</completed>
+                        <SeriesList>
+                            <Series>
+                                <name>Jumping Jacks</name>
+                                <estimatedDuration>60</estimatedDuration>
+                                <repetitionCount>30</repetitionCount>
+                                <completionDate>Tue Nov 04 00:00:00 CET 2025</completionDate>
+                                <completed>true</completed>
+                            </Series>
+                            <Series>
+                                <name>High Knees</name>
+                                <estimatedDuration>40</estimatedDuration>
+                                <repetitionCount>20</repetitionCount>
+                                <completionDate>Wed Nov 05 00:00:00 CET 2025</completionDate>
+                                <completed>true</completed>
+                            </Series>
+                        </SeriesList>
+                    </Excercise>
+                </Excercises>
+            </Workout>
+            <Workout>
+                <name>Full Body Workout</name>
+                <NExcercises>2</NExcercises>
+                <Level>0</Level>
+                <urlVideo>https://youtu.be/xvFZjo5PgG0?si=S8woE9xNYJPUZEq5</urlVideo>
+                <Excercises>
+                    <Excercise>
+                        <name>Upper Body</name>
+                        <description>A focused workout targeting the chest, shoulders, arms, and back to build upper-body strength and muscle definition.</description>
+                        <breakTime>10</breakTime>
+                        <completed>true</completed>
+                        <SeriesList>
+                            <Series>
+                                <name>Push-Ups</name>
+                                <estimatedDuration>36</estimatedDuration>
+                                <repetitionCount>12</repetitionCount>
+                                <completionDate>Sun Oct 19 00:00:00 CEST 2025</completionDate>
+                                <completed>true</completed>
+                            </Series>
+                            <Series>
+                                <name>Pull-Ups</name>
+                                <estimatedDuration>24</estimatedDuration>
+                                <repetitionCount>8</repetitionCount>
+                                <completionDate>Tue Nov 04 00:00:00 CET 2025</completionDate>
+                                <completed>true</completed>
+                            </Series>
+                        </SeriesList>
+                    </Excercise>
+                    <Excercise>
+                        <name>Lower Body</name>
+                        <description>A strength-focused workout targeting the legs and glutes to improve lower-body power, balance, and endurance.</description>
+                        <breakTime>25</breakTime>
+                        <completed>true</completed>
+                        <SeriesList>
+                            <Series>
+                                <name>Squats</name>
+                                <estimatedDuration>45</estimatedDuration>
+                                <repetitionCount>15</repetitionCount>
+                                <completionDate>Mon Oct 20 00:00:00 CEST 2025</completionDate>
+                                <completed>true</completed>
+                            </Series>
+                            <Series>
+                                <name>Lunges</name>
+                                <estimatedDuration>36</estimatedDuration>
+                                <repetitionCount>12</repetitionCount>
+                                <completionDate>Tue Oct 21 00:00:00 CEST 2025</completionDate>
+                                <completed>true</completed>
+                            </Series>
+                        </SeriesList>
+                    </Excercise>
+                </Excercises>
+            </Workout>
+            <Workout>
+                <name>Strength Training</name>
+                <NExcercises>2</NExcercises>
+                <Level>2</Level>
+                <urlVideo>https://youtu.be/xvFZjo5PgG0?si=S8woE9xNYJPUZEq5</urlVideo>
+                <Excercises>
+                    <Excercise>
+                        <name>Chest &amp; Shoulders</name>
+                        <description>A targeted workout focusing on the chest and shoulder muscles to build upper-body strength, stability, and definition.</description>
+                        <breakTime>20</breakTime>
+                        <completed>true</completed>
+                        <SeriesList>
+                            <Series>
+                                <name>Shoulder Press</name>
+                                <estimatedDuration>24</estimatedDuration>
+                                <repetitionCount>8</repetitionCount>
+                                <completionDate>Thu Nov 06 00:00:00 CET 2025</completionDate>
+                                <completed>true</completed>
+                            </Series>
+                            <Series>
+                                <name>Bench Press</name>
+                                <estimatedDuration>30</estimatedDuration>
+                                <repetitionCount>10</repetitionCount>
+                                <completionDate>Thu Nov 06 00:00:00 CET 2025</completionDate>
+                                <completed>true</completed>
+                            </Series>
+                        </SeriesList>
+                    </Excercise>
+                    <Excercise>
+                        <name>Arms</name>
+                        <description>A focused workout targeting the biceps, triceps, and forearms to enhance arm strength, tone, and endurance.</description>
+                        <breakTime>15</breakTime>
+                        <completed>false</completed>
+                        <SeriesList>
+                            <Series>
+                                <name>Bicep Curls</name>
+                                <estimatedDuration>30</estimatedDuration>
+                                <repetitionCount>10</repetitionCount>
+                                <completionDate/>
+                                <completed>false</completed>
+                            </Series>
+                            <Series>
+                                <name>Tricep Dips</name>
+                                <estimatedDuration>36</estimatedDuration>
+                                <repetitionCount>12</repetitionCount>
+                                <completionDate/>
+                                <completed>false</completed>
+                            </Series>
+                        </SeriesList>
+                    </Excercise>
+                </Excercises>
+            </Workout>
+        </Workouts>
+    </User>
+    <User>
+        <name>k</name>
+        <lastname>k</lastname>
+        <email>asdfasdf</email>
+        <password>1</password>
+        <birthDate>Sat Jan 01 00:00:00 CET 2000</birthDate>
+        <Level>0</Level>
+        <Workouts>
+            <Workout>
+                <name>Full Body Workout</name>
+                <NExcercises>2</NExcercises>
+                <Level>0</Level>
+                <urlVideo>https://youtu.be/xvFZjo5PgG0?si=S8woE9xNYJPUZEq5</urlVideo>
+                <Excercises>
+                    <Excercise>
+                        <name>Upper Body</name>
+                        <description>A focused workout targeting the chest, shoulders, arms, and back to build upper-body strength and muscle definition.</description>
+                        <breakTime>10</breakTime>
+                        <completed>true</completed>
+                        <SeriesList>
+                            <Series>
+                                <name>Push-Ups</name>
+                                <estimatedDuration>36</estimatedDuration>
+                                <repetitionCount>12</repetitionCount>
+                                <completionDate>Thu Nov 06 00:00:00 CET 2025</completionDate>
+                                <completed>true</completed>
+                            </Series>
+                            <Series>
+                                <name>Pull-Ups</name>
+                                <estimatedDuration>24</estimatedDuration>
+                                <repetitionCount>8</repetitionCount>
+                                <completionDate>Thu Nov 06 00:00:00 CET 2025</completionDate>
+                                <completed>true</completed>
+                            </Series>
+                        </SeriesList>
+                    </Excercise>
+                    <Excercise>
+                        <name>Lower Body</name>
+                        <description>A strength-focused workout targeting the legs and glutes to improve lower-body power, balance, and endurance.</description>
+                        <breakTime>25</breakTime>
+                        <completed>false</completed>
+                        <SeriesList>
+                            <Series>
+                                <name>Squats</name>
+                                <estimatedDuration>45</estimatedDuration>
+                                <repetitionCount>15</repetitionCount>
+                                <completionDate/>
+                                <completed>false</completed>
+                            </Series>
+                            <Series>
+                                <name>Lunges</name>
+                                <estimatedDuration>36</estimatedDuration>
+                                <repetitionCount>12</repetitionCount>
+                                <completionDate/>
+                                <completed>false</completed>
+                            </Series>
+                        </SeriesList>
+                    </Excercise>
+                </Excercises>
+            </Workout>
+        </Workouts>
+    </User>
+    <User>
+        <name>arai</name>
+        <lastname>AC</lastname>
+        <email>Arai@1.com</email>
+        <password>1</password>
+        <birthDate>Fri Sep 15 00:00:00 CEST 2006</birthDate>
+        <Level>0</Level>
+        <Workouts>
+            <Workout>
+                <name>Full Body Workout</name>
+                <NExcercises>2</NExcercises>
+                <Level>0</Level>
+                <urlVideo>https://youtu.be/xvFZjo5PgG0?si=S8woE9xNYJPUZEq5</urlVideo>
+                <Excercises>
+                    <Excercise>
+                        <name>Upper Body</name>
+                        <description>A focused workout targeting the chest, shoulders, arms, and back to build upper-body strength and muscle definition.</description>
+                        <breakTime>10</breakTime>
+                        <completed>false</completed>
+                        <SeriesList>
+                            <Series>
+                                <name>Push-Ups</name>
+                                <estimatedDuration>36</estimatedDuration>
+                                <repetitionCount>12</repetitionCount>
+                                <completionDate>Mon Sep 01 00:00:00 CEST 2025</completionDate>
+                                <completed>true</completed>
+                            </Series>
+                            <Series>
+                                <name>Pull-Ups</name>
+                                <estimatedDuration>24</estimatedDuration>
+                                <repetitionCount>8</repetitionCount>
+                                <completionDate/>
+                                <completed>false</completed>
+                            </Series>
+                        </SeriesList>
+                    </Excercise>
+                    <Excercise>
+                        <name>Lower Body</name>
+                        <description>A strength-focused workout targeting the legs and glutes to improve lower-body power, balance, and endurance.</description>
+                        <breakTime>25</breakTime>
+                        <completed>false</completed>
+                        <SeriesList>
+                            <Series>
+                                <name>Squats</name>
+                                <estimatedDuration>45</estimatedDuration>
+                                <repetitionCount>15</repetitionCount>
+                                <completionDate/>
+                                <completed>false</completed>
+                            </Series>
+                            <Series>
+                                <name>Lunges</name>
+                                <estimatedDuration>36</estimatedDuration>
+                                <repetitionCount>12</repetitionCount>
+                                <completionDate/>
+                                <completed>false</completed>
+                            </Series>
+                        </SeriesList>
+                    </Excercise>
+                </Excercises>
+            </Workout>
+        </Workouts>
+    </User>
+</Users>
